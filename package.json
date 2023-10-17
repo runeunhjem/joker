@@ -1,6 +1,6 @@
 {
   "name": "joker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Environment task in Workflow, Module 2",
   "type": "module",
   "main": "src/index.js",
