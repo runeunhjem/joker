@@ -1,6 +1,6 @@
 {
-  "name": "runeunhjem-joker",
-  "version": "0.2.1",
+  "name": "joker",
+  "version": "0.2.0",
   "description": "Environment task in Workflow, Module 2",
   "type": "module",
   "main": "src/index.js",
@@ -35,8 +35,8 @@
   },
   "lint-staged": {
     "*.js": [
-      "prettier --write",
-      "eslint --fix"
+      "eslint --cache --fix",
+      "prettier --write"
     ],
     "*.html": [
       "prettier --write"
