@@ -1,0 +1,61 @@
+{
+  "editor.emptySelectionClipboard": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "files.autoSave": "afterDelay",
+  "git.autofetch": true,
+  "workbench.iconTheme": "vscode-icons",
+  "tabnine.experimentalAutoImports": true,
+  "editor.linkedEditing": true,
+  "editor.accessibilitySupport": "off",
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "html.autoClosingTags": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "files.trimTrailingWhitespace": true,
+  "prettier.printWidth": 125,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.inlineSuggest.enabled": true,
+  "workbench.colorTheme": "Default Dark+",
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.colorCustomizations": {
+    "editorUnnecessaryCode.border": "#FF000090"
+  },
+  "explorer.confirmDelete": false,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "javascript.format.semicolons": "insert",
+  "html.format.wrapAttributes": "aligned-multiple",
+  "html.format.wrapLineLength": 60,
+  "workbench.startupEditor": "none",
+  "emmet.preferences": {},
+  "files.exclude": {
+    "**/.history": true
+  },
+  "editor.formatOnSave": true,
+  "eslint.codeActionsOnSave.rules": null,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript"
+  ]
+}
